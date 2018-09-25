@@ -1,5 +1,7 @@
 =encoding utf8
 
+B<**I am archiving this fork as I have switched to using trizen instead.**>
+
 =head1 NAME
 
 pacaur - an AUR helper that minimizes user interaction
